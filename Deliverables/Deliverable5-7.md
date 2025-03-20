@@ -17,6 +17,7 @@ Sprint Goal: Implement Backend and consider integration
 |----------------|------------|
 | Improved UI for Login, registration and emergency contact form | Looks better, forcus on integration and development of another feature          |
 
+
 #### **Completed Tasks**
 
 **Instructions:** Document completed tasks for each item in your sprint backlog as shown below, i.e., each user story you have decided to implement in your sprint. (Remove example/instruction before you submit.)
@@ -46,6 +47,16 @@ Sprint Goal: Implement Backend and consider integration
 | ------------| ----------------| ----------------| -----------|
 |003-1 | Better the UI for emergency contact information| Friya | Yes |
 
+#### Epic-User Story ID User -003
+**Acceptance Criertia:**
+User can entry journal and can track goals
+| **Task ID** | **Description** | **Assigned To** | **Done?**| 
+| ------------| ----------------| ----------------| -----------|
+|   003-6    |Develop initial API endpoints| Jamima | No|
+|  003-7|   Integate database with backend | Jamima | No |
+
+
+
 
 ### New/Revised Tasks
 
@@ -61,7 +72,7 @@ Sprint Goal: Implement Backend and consider integration
 | 001-5 UI | have clearer error messages, instead of having 'password too short' have 'password must be atleast 8 characters'|
 | 001-6 UI | change the button to be more visible in fron tof a white background|
 
-####  Epic-User Story ID User login - 002
+####  Epic-User Story ID User login - 00
 
 | **Task ID** | **Description** |
 |-------------|-----------------|
@@ -77,6 +88,12 @@ Sprint Goal: Implement Backend and consider integration
 | 003-3 UI | The emergency contact form should be in the same layout at the registration form.|
 | 003-4 UI | the form should be moe spaced out and not look crammed together|
 
+#### Epic- User Story ID User can track goals and entry journal - 004
+| **Task ID** | **Description** |
+|-------------|-----------------|
+|004-1 | Fix and finish the API endpoints|
+|004-2| Finish integrate database with backend | 
+|004-3| Integrate these two features with the navigaion bar |
 
 
 ### Sprint Retrospective
@@ -124,7 +141,8 @@ scrum master
 | ----------------- | ------ | ------------- | ------- | ------- |-------- | ----- |
 | Nearest well being centers | 004    |  user | view the nearest well being centers near me | I can improve my well being | F | High |
 | Nearest well being centers | 004    |  user | view the nearest well being centers on a map and as a list | i can locate the centers easier  | F | High |
-
+|Entry Journal | 001| User | entry journal with/without prompt where I can edit or delete| I can express myself | F| High
+|Track Goals| 002| User | track my everyday goals where I can delete or edit them|I can improve myself to complete my task| F|High 
 
 
 *User Story ID
